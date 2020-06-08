@@ -1,7 +1,7 @@
 ---
 title: "Jonah's Blog"
 date: 2020-06-07
----
+
 title: Jonah's Profile
 author: Jonah Huang
 email: jonahh0987@gmail.com
@@ -15,3 +15,4 @@ github_username:  jonahh0987
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+---
