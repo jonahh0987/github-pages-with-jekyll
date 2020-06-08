@@ -1,3 +1,6 @@
-# Welcome to my blog
+Hello! My name is Jonah Huang
+-
+You can find me at:
 
-I'm glad you are here. I plan to talk about ...
+Instagram @jhviper
+Facebook Jonah Huang
